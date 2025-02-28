@@ -1,0 +1,42 @@
+{
+  "icons": [
+    {
+      "src": "/static/icons/icon_512x512.633f092b2e0373b53e00699df49e3634.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icons/icon_384x384.f2177d0d337242b95dfb357489a39be8.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icons/icon_256x256.b84f034bd5f016b1c465bd217c7ae695.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icons/icon_192x192.4d72afab56fdb75b10bd0b987f51d118.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icons/icon_128x128.47867d3e35d05a26e33e62a4db3efb1e.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/static/icons/icon_96x96.0cddfbee995b753b4aceea7265a005b0.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Oleksii Khrushch",
+  "short_name": "Oleksii Khrushch",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "https://oleksiikhr.github.io",
+  "background_color": "#fff",
+  "description": "Portfolio by Oleksii Khrushch",
+  "theme_color": "#fff"
+}
